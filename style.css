@@ -1,11 +1,12 @@
 :root {
   --bg-color: #212525;
-  /* --bg-nav-color: #182029; */
-  /* --bg-nav-color-dark: rgb(40, 50, 65); */
+  --bg-nav-color: #391f2d;
+  --bg-nav-color-dark: rgb(40, 50, 65);
   --white: #e2e2e2;
   --gray: #b8b8b8;
   --dark-gray: #707070;
   --blue: #60a4e4;
+  --orange: #e4bf60;
 }
 
 * {
@@ -36,12 +37,23 @@ small {
 }
 
 a {
-  color: var(--white);
+  color: var(--orange);
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
+  color: var(--blue);
   text-decoration: underline;
+}
+
+ul {
+  list-style-type: "- ";
+  margin-left: 30px;
+}
+
+li {
+  /* font-size: larger; */
 }
 
 button {
@@ -135,3 +147,99 @@ figcaption {
   border-radius: 30px;
   background-color: var(--blue);
 }
+
+.description {
+  line-height: 1.8;
+}
+
+/* NAVIGATION */
+nav {
+  font-family: monospace;
+  font-size: 15px;
+  display: flex;
+  background-color: var(--bg-nav-color);
+}
+
+nav a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: normal;
+}
+
+nav a:hover {
+  color: var(--white);
+  text-decoration: underline;
+}
+
+.web-nav {
+  display: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.web-nav-item {
+  height: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px
+}
+
+.web-nav-item:hover {
+  background-color: var(--bg-nav-color-dark);
+}
+
+.mobile-nav {
+  margin-right: 10px;
+  height: 30px;
+  width: 30px;
+  display: none;
+  filter: invert(90%);
+}
+
+@media screen and (max-width: 500px) {
+  nav {
+    justify-content: space-between;
+  }
+
+  .web-nav {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: inherit;
+  }
+
+}
+
+.sidebar {
+  width: 200px;
+  height: 500px;
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  background: transparent;
+  overflow: hidden;
+}
+
+.sidebar-items {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px;
+  background-color: var(--bg-nav-color);
+  transform: translate(200px, 0px);
+  transition: 0.3s all ease-out;
+}
+
+.sidebar-items-item {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* END NAVIGATION */

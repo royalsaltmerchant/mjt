@@ -12,15 +12,31 @@
       content="https://magictea.audiopile.cloud/cover.webp"
     />
     <meta property="og:url" content="https://magictea.audiopile.cloud" />
-    <meta property="og:site_name" content="magictea | Session 007" />
+    <meta property="og:site_name" content="Magic Tea | Session 007" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" sizes="16x16" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" sizes="32x32" />
     <title>Magic Tea | Session 007</title>
     <link rel="stylesheet" href="/style.css" />
     <script defer src="https://royalsaltmerchant.github.io/album_audio_player/index.js"></script>
+    <script src="/js/sidebar.js" defer></script>
   </head>
   <body>
     <div class="container">
+      <div id="mobile-menu"></div>
+      <nav>
+        <!-- web nav -->
+        <div class="web-nav">
+          <a href="/about" class="web-nav-item">About</a>
+          <a href="/albums" class="web-nav-item">Albums</a>
+        </div>
+        <!-- mobile nav -->
+        <img
+          id="hamburger"
+          class="mobile-nav"
+          src="/icons/hamburger-button-svgrepo-com.svg"
+        />
+      </nav>
+      <br>
       <!-- title -->
       <h1>Session 007</h1>
       <h3>By Magic Tea</h3>
