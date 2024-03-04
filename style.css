@@ -86,19 +86,6 @@ button a:hover {
   color: var(--blue);
 }
 
-.album-art-container {
-  width: fit-content;
-  /* border: 1px solid red; */
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-}
-
-.album-cover {
-  width: 100vw;
-  max-width: 500px;
-}
-
 .pwr-btns-container {
   display: flex;
 }
@@ -158,6 +145,50 @@ figcaption {
 .description {
   line-height: 1.8;
 }
+
+.album-art-container {
+  width: fit-content;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.album-cover {
+  width: 100vw;
+  max-width: 500px;
+}
+
+.album-art-container img {
+  transition: filter 0.5s ease;
+}
+
+.info-blurb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.album-art-container:hover img {
+  filter: brightness(50%);
+}
+
+.album-art-container:hover .info-blurb {
+  opacity: 1;
+}
+
 
 /* NAVIGATION */
 nav {
