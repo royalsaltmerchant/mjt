@@ -166,6 +166,7 @@ figcaption {
 .song-cover {
   width: 75vw;
   max-width: 250px;
+  /* test */
 }
 
 .info-blurb {
