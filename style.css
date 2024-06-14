@@ -163,6 +163,11 @@ figcaption {
   transition: filter 0.5s ease;
 }
 
+.song-cover {
+  width: 75vw;
+  max-width: 250px;
+}
+
 .info-blurb {
   position: absolute;
   top: 0;
