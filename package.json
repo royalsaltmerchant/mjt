@@ -1,0 +1,10 @@
+{
+  "name": "mjt",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node generate-session.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10"
+  }
+}

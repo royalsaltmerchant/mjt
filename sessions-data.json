@@ -1,0 +1,101 @@
+[
+  {
+    "sessionName": "Dark Brew",
+    "sessionSlug": "dark_brew",
+    "sessionImage": "dark_brew.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/dark_brew.mp3",
+    "infoBlurb": "\"Image generated with DALL-E\"",
+    "hasDownload": false,
+    "downloadUrl": "",
+    "description": "Dark Brew by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Twenty Dolla",
+    "sessionSlug": "twenty_dolla",
+    "sessionImage": "twenty_dolla.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/twenty_dolla.mp3",
+    "infoBlurb": "\"Image generated with DALL-E\"",
+    "hasDownload": false,
+    "downloadUrl": "",
+    "description": "Twenty Dolla by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Sweet Seventeen",
+    "sessionSlug": "sweet_seventeen",
+    "sessionImage": "sweet_seventeen.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/sweet_seventeen.mp3",
+    "infoBlurb": "\"Image generated with DALL-E\"",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/sweet_seventeen.wav",
+    "description": "Sweet Seventeen by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Mushroom Tea",
+    "sessionSlug": "mushroomtea",
+    "sessionImage": "mushroom-tea.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mushroom-tea.mp3",
+    "infoBlurb": "The image,  which I call \"Dolphin Dance,\" is a straight photograph. It was captured and developed using digital tools, but without manipulation, alteration, or compositing. It's representative of my improvisational approach to art and life.<br>\n          <br>\n          <p>- Michael Lafferty (Artist)</p>",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mushroom-tea.wav",
+    "description": "Mushroom Tea session by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Session 007",
+    "sessionSlug": "session007",
+    "sessionImage": "session007.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/session_007.mp3",
+    "infoBlurb": "Image generated with AI from https://deepai.org",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/session_007.wav",
+    "description": "Session 007 session by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Stalagmites",
+    "sessionSlug": "stalagmites",
+    "sessionImage": "stalagmites.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/stalagmites.mp3",
+    "infoBlurb": "\"Image generated with DALL-E\"",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/stalagmites.wav",
+    "description": "Stalagmites by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Twelve",
+    "sessionSlug": "twelve",
+    "sessionImage": "twelve.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/twelve.mp3",
+    "infoBlurb": "\"The Point\" by Michael Lafferty",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/twelve.wav",
+    "description": "Twelve by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Uncle Wiggly's Silhouette",
+    "sessionSlug": "uncle_wigglys_silhouette",
+    "sessionImage": "uncle_wigglys_silhouette.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/uncle_wigglys_silhouette.mp3",
+    "infoBlurb": "\"Gaping Maw\" by Michael Lafferty",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/uncle_wigglys_silhouette.wav",
+    "description": "Uncle Wiggly's Silhouette session by Magic Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "What a Time",
+    "sessionSlug": "what_a_time",
+    "sessionImage": "what_a_time.webp",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/what_a_time.mp3",
+    "infoBlurb": "I looked at a few of my photos that had people who looked like they could be making their way home from bar hopping but I decided to go with this because I like the image.<p>It's an art installation on Naoshima (Japan), an island devoted to art.</p><p> It's open to various interpretations. If you want to be literalistic, the little colored illuminated numbers could be the bar patrons wading / swimming/  in…liquid.</p><p>The numbers could represent the number of drinks they had, or how many blocks to home, or… Not</p><p>And who is that shadowy figure?</p><br><p>- Michael Lafferty (Artist)</p>",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/what_a_time.wav",
+    "description": "What a Time by Magic Tea",
+    "year": 2024
+  }
+]

@@ -147,19 +147,19 @@ figcaption {
   line-height: 1.8;
 }
 
-.album-art-container {
+.session-art-container {
   width: fit-content;
   position: relative;
   display: flex;
   flex-direction: column;
 }
 
-.album-cover {
+.session-cover {
   width: 100vw;
   max-width: 500px;
 }
 
-.album-art-container img {
+.session-art-container img {
   transition: filter 0.5s ease;
 }
 
@@ -187,11 +187,11 @@ figcaption {
   text-align: center;
 }
 
-.album-art-container:hover img {
+.session-art-container:hover img {
   filter: brightness(50%);
 }
 
-.album-art-container:hover .info-blurb {
+.session-art-container:hover .info-blurb {
   opacity: 1;
 }
 

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Twenty Dolla by Magic Tea" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Magic Tea | Twenty Dolla" />
+    <meta property="og:description" content="Twenty Dolla by Magic Tea" />
+    <meta
+      property="og:image"
+      content="https://royalsaltmerchant.github.io/mjt/assets/covers/twenty_dolla.webp"
+    />
+    <meta property="og:url" content="https://royalsaltmerchant.github.io/mjt/sessions/twenty_dolla" />
+    <meta property="og:site_name" content="Magic Tea | Twenty Dolla" />
+    <link rel="icon" type="image/x-icon" href="/assets/favicons/twenty_dolla.ico" sizes="16x16" />
+    <link rel="icon" type="image/x-icon" href="/assets/favicons/twenty_dolla.ico" sizes="32x32" />
+    <title>Magic Tea | Twenty Dolla</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script defer src="https://royalsaltmerchant.github.io/album_audio_player/index.js"></script>
+    <script src="/js/sidebar.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="mobile-menu"></div>
+      <nav>
+        <!-- web nav -->
+        <div class="web-nav">
+          <a href="/about" class="web-nav-item">About</a>
+          <a href="/sessions" class="web-nav-item">Sessions</a>
+        </div>
+        <!-- mobile nav -->
+        <img
+          id="hamburger"
+          class="mobile-nav"
+          src="/icons/hamburger-button-svgrepo-com.svg"
+        />
+      </nav>
+      <br>
+      <!-- title -->
+      <h1>Twenty Dolla</h1>
+      <h3>By Magic Tea</h3>
+      <br />
+      <!-- art -->
+      <div class="session-art-container">
+        <img src="/assets/covers/twenty_dolla.webp" class="session-cover" alt="" />
+        <div class="info-blurb">
+          <p>"Image generated with DALL-E"</p>
+        </div>
+      </div>
+      <br />
+      <div class="pwr-btns-container">
+        <button class="play-all-button" >Play Session</button>
+        
+      </div>
+      <small>Current playback is in MP3 format.</small>
+      <br />
+      <!-- tracks -->
+      <figure>
+        <figcaption>Twenty Dolla</figcaption>
+        <div class="audio-player">
+          <audio class="audio-element">
+            <source src="https://julianmusic.s3.us-west-1.amazonaws.com/mjt/twenty_dolla.mp3" type="audio/mpeg" />
+          </audio>
+          <div class="progress-bar">
+            <div class="progress"></div>
+          </div>
+          <button class="play-pause-button">⏵︎</button>
+        </div>
+      </figure>
+    </div>
+  </body>
+</html>
