@@ -1,5 +1,60 @@
 [
   {
+    "sessionName": "Who are these mystic travelers",
+    "sessionSlug": "who_are_these_mystic_travelers",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_29_who_are_these_mystic_travelers.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_29_who_are_these_mystic_travelers.wav",
+    "description": "Who are these mystic travelers by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Our Cup of Tea",
+    "sessionSlug": "our_cup_of_tea",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_28_our_cup_of_tea.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_28_our_cup_of_tea.wav",
+    "description": "Our Cup of Tea by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Left Brain in the Cosmos",
+    "sessionSlug": "left_brain_in_the_cosmos",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_27_left_brain_in_the_cosmos.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_27_left_brain_in_the_cosmos.wav",
+    "description": "Left Brain in the Cosmos by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Flies Over the Rainbow",
+    "sessionSlug": "flies_over_the_rainblow",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_26_flies_over_the_rainbow.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_26_flies_over_the_rainbow.wav",
+    "description": "Flies Over the Rainbow by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Those Damn Frogs",
+    "sessionSlug": "those_damn_frogs",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_25_those_damn_frogs.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_25_those_damn_frogs.wav",
+    "description": "Those Damn Frogs by Majik Tea",
+    "year": 2024
+  },
+  {
     "sessionName": "Say Goodnight",
     "sessionSlug": "say_goodnight",
     "sessionImage": "",
