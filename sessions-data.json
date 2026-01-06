@@ -1,13 +1,35 @@
 [
   {
-    "sessionName": "",
-    "sessionSlug": "",
+    "sessionName": "Say Goodnight",
+    "sessionSlug": "say_goodnight",
     "sessionImage": "",
-    "audioUrl": "",
-    "infoBlurb": "\"Image generated with DALL-E\"",
-    "hasDownload": false,
-    "downloadUrl": "",
-    "description": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_24_say_goodnight.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_24_say_goodnight.wav",
+    "description": "Say Goodnight by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Insanity Blues",
+    "sessionSlug": "insanity_blues",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_23_insanity_blues.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_23_insanity_blues.wav",
+    "description": "Insanity Blues by Majik Tea",
+    "year": 2024
+  },
+  {
+    "sessionName": "Mo Betta",
+    "sessionSlug": "mo_betta",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_22_mo_betta.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_22_mo_betta.wav",
+    "description": "Mo Betta by Majik Tea",
     "year": 2024
   },
   {
