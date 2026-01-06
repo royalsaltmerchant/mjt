@@ -1,5 +1,38 @@
 [
   {
+    "sessionName": "Mandatory Overtime",
+    "sessionSlug": "mandatory_overtime",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_33_mandatory_overtime.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_33_mandatory_overtime.wav",
+    "description": "Mandatory Overtime by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "From the Heart",
+    "sessionSlug": "from_the_heart",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_32_from_the_heart.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_32_from_the_heart.wav",
+    "description": "From the Heart by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Sailing into the Distance",
+    "sessionSlug": "sailing_into_the_distance",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_31_sailing_into_the_distance.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_31_sailing_into_the_distance.wav",
+    "description": "Sailing into the Distance by Majik Tea",
+    "year": 2025
+  },
+  {
     "sessionName": "Who are these mystic travelers",
     "sessionSlug": "who_are_these_mystic_travelers",
     "sessionImage": "",
