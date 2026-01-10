@@ -1,5 +1,16 @@
 [
   {
+    "sessionName": "The Last Bird",
+    "sessionSlug": "spring_equinox",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_35_the_last_bird.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_35_the_last_bird.wav",
+    "description": "The Last Bird by Majik Tea",
+    "year": 2025
+  },
+  {
     "sessionName": "Spring Equinox",
     "sessionSlug": "spring_equinox",
     "sessionImage": "",
