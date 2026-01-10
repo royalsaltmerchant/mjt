@@ -8,9 +8,9 @@ function SideBar(props) {
     var html =  /* html */`
       <div class="sidebar" id="sidebar">
         <div class="sidebar-items" id="sidebar-items">
-          <a href="/about"><div class="sidebar-items-item">About</div></a>
+          <a href="/mjt/about"><div class="sidebar-items-item">About</div></a>
           <hr>
-          <a href="/albums"><div class="sidebar-items-item">Albums</div></a>    
+          <a href="/mjt/sessions"><div class="sidebar-items-item">Sessions</div></a>    
         </div>
       </div>
     `
