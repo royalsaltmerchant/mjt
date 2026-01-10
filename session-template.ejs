@@ -42,12 +42,14 @@
       <h3>By Majik Tea</h3>
       <br />
       <!-- art -->
+      <% if (sessionImage) { %>
       <div class="session-art-container">
         <img src="/mjt/assets/covers/<%= sessionImage %>" class="session-cover" alt="" />
         <div class="info-blurb">
           <p><%- infoBlurb %></p>
         </div>
       </div>
+      <% } %>
       <br />
       <div class="pwr-btns-container">
         <button class="play-all-button" >Play Session</button>

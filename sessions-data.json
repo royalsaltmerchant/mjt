@@ -1,5 +1,16 @@
 [
   {
+    "sessionName": "Spring Equinox",
+    "sessionSlug": "spring_equinox",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_34_spring_equinox.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_34_spring_equinox.wav",
+    "description": "Spring Equinox by Majik Tea",
+    "year": 2025
+  },
+  {
     "sessionName": "Mandatory Overtime",
     "sessionSlug": "mandatory_overtime",
     "sessionImage": "",
