@@ -1,5 +1,82 @@
 [
   {
+    "sessionName": "Within the Shells",
+    "sessionSlug": "within_the_shells",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_50_within_the_shells.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_50_within_the_shells.wav",
+    "description": "Within the Shells by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Ode to Peace",
+    "sessionSlug": "ode_to_peace",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_49_ode_to_peace.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_49_ode_to_peace.wav",
+    "description": "Ode to Peace by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Don't Bore Me",
+    "sessionSlug": "dont_bore_me",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_41_dont_bore_me.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_41_dont_bore_me.wav",
+    "description": "Don't Bore Me by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Anyone Seen My Keys",
+    "sessionSlug": "anyone_seen_my_keys",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_40_anyone_seen_my_keys.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_40_anyone_seen_my_keys.wav",
+    "description": "Anyone Seen My Keys by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Warts and All",
+    "sessionSlug": "warts_and_all",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_39_warts_and_all.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_39_warts_and_all.wav",
+    "description": "Warts and All by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "End of the Beginning",
+    "sessionSlug": "end_of_the_beginning",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_38_end_of_the_beginning.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_38_end_of_the_beginning.wav",
+    "description": "End of the Beginning by Majik Tea",
+    "year": 2025
+  },
+  {
+    "sessionName": "Something is in this Tea",
+    "sessionSlug": "something_is_in_this_tea",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_37_something_is_in_this_tea.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_37_something_is_in_this_tea.wav",
+    "description": "Something is in this Tea by Majik Tea",
+    "year": 2025
+  },
+  {
     "sessionName": "They will be coming for us",
     "sessionSlug": "they_will_be_coming_for_us",
     "sessionImage": "",
