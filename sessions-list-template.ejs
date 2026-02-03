@@ -17,6 +17,8 @@
     <div class="container">
       <div id="mobile-menu"></div>
       <nav>
+        <!-- site brand -->
+        <a href="/" class="site-brand">Majik Tea</a>
         <!-- web nav -->
         <div class="web-nav">
           <a href="/about" class="web-nav-item">About</a>
@@ -27,19 +29,19 @@
           id="hamburger"
           class="mobile-nav"
           src="/icons/hamburger-button-svgrepo-com.svg"
+          alt="Menu"
         />
       </nav>
-      <br>
       <!-- title -->
-      <h1>Sessions</h1>
-      <h3>By Majik Tea</h3>
-      <br />
+      <header class="page-header">
+        <h1>Sessions</h1>
+        <h3>All Releases</h3>
+      </header>
       <% Object.keys(sessionsByYear).sort((a, b) => b - a).forEach(year => { %>
       <h2><%= year %></h2>
       <ul>
         <% sessionsByYear[year].forEach(session => { %>
         <li><a href="/sessions/<%= session.sessionSlug %>/"><%= session.sessionName %></a></li>
-        <br>
         <% }) %>
       </ul>
       <% }) %>
