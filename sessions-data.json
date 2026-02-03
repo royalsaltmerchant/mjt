@@ -1,5 +1,16 @@
 [
   {
+    "sessionName": "They will be coming for us",
+    "sessionSlug": "they_will_be_coming_for_us",
+    "sessionImage": "",
+    "audioUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_36_they_will_be_coming_for_us.mp3",
+    "infoBlurb": "",
+    "hasDownload": true,
+    "downloadUrl": "https://julianmusic.s3.us-west-1.amazonaws.com/mjt/mjt_36_they_will_be_coming_for_us.wav",
+    "description": "They will be coming for us by Majik Tea",
+    "year": 2025
+  },
+  {
     "sessionName": "The Last Bird",
     "sessionSlug": "spring_equinox",
     "sessionImage": "",
